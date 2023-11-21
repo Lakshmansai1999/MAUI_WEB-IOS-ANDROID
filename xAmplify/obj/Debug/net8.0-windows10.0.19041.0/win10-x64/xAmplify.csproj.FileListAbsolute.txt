@@ -175,3 +175,4 @@ D:\xAmplify\xAmplify\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.t
 D:\xAmplify\xAmplify\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\xAmplify\xAmplify\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\xAmplify\xAmplify\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\xAmplify\xAmplify\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\xAmplify.sourcelink.json

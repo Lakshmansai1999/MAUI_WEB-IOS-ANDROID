@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("xAmplify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9de8f2e43755abd9f98ab06cf6f048cfc942e400")]
 [assembly: System.Reflection.AssemblyProductAttribute("xAmplify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("xAmplify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
