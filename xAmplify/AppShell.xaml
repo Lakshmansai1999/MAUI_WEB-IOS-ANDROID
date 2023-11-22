@@ -8,7 +8,7 @@
     Title="xAmplify">
 
     <ShellContent
-        Title="Home"
+        Title="xAmplify" 
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 

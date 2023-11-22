@@ -29,7 +29,7 @@
     <AppXManifest Include="D:\xAmplify\xAmplify\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-21T10:33:56.138</Modified>
+      <Modified>2023-11-22T04:23:41.770</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\xAmplify\xAmplify\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\xAmplify.dll">
       <PackagePath>xAmplify.dll</PackagePath>
-      <Modified>2023-11-21T10:33:55.759</Modified>
+      <Modified>2023-11-22T04:23:40.571</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\xAmplify\xAmplify\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>xAmplify.exe</PackagePath>
-      <Modified>2023-11-21T10:33:55.764</Modified>
+      <Modified>2023-11-22T04:23:40.709</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\xAmplify\xAmplify\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
